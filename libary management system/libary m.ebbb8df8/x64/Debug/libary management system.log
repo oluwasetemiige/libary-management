@@ -1,0 +1,4 @@
+﻿  libary management systemcpp.cpp
+C:\Users\DELL\source\repos\libary management system\libary management systemcpp.cpp(9,6): warning C4101: 'remove_book': unreferenced local variable
+C:\Users\DELL\source\repos\libary management system\libary management systemcpp.cpp(11,6): warning C4101: 'price': unreferenced local variable
+  libary management system.vcxproj -> C:\Users\DELL\source\repos\libary management system\x64\Debug\libary management system.exe
